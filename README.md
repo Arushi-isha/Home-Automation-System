@@ -4,7 +4,7 @@ This project demonstrates a basic home automation system using an Arduino Uno an
 # Features
 - Control appliances (like fans/lights) using virtual buttons (V1).
 
--Automatic LED light control based on analog sensor input (e.g., light or gas sensor).
+- Automatic LED light control based on analog sensor input (e.g., light or gas sensor).
 
 - Wireless interaction with the system via the mobile app.
 
